@@ -1,7 +1,7 @@
-import About from './Components/About'
-import Hero from './Components/Hero'
-import Navbar from './Components/Navbar'
-import Services from './Components/Services'
+import About from "./Components/About";
+import Hero from "./Components/Hero";
+import Navbar from "./Components/Navbar";
+import Services from "./Components/Services";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Services />
       <About />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
